@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  border: 3px solid black;
+  border-radius: 10px;
+
+  height: 20rem;
+  width: 12rem;
+  margin: 1rem;
+
+  display: inline-block;
+  justify-content: center;
+
+  text-align: center;
+  vertical-align: middle;
+}
+
+.card h2 {
+  padding-bottom: 0.5rem;
+}
+
+#mini-biografia p {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+#formacao-academica p {
+  margin-top: 1rem;
+}
+
+#dados-de-contato p {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
