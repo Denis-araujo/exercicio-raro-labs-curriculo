@@ -43,3 +43,7 @@ h1 {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
 }
+
+#dados-de-contato a {
+  text-decoration: none;
+}
